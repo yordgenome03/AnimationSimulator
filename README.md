@@ -10,7 +10,7 @@ RotatingShape is a Swift-based application designed to display and animate vario
 - **Real-time Updates**: Observe changes in real-time as you adjust the settings.
 - **Collapsible Sections**: Easily navigate through different setting categories with collapsible sections.
 
-![Simulator Screenshot - iPhone 15 Pro - 2024-06-23 at 05 49 36](https://github.com/yordgenome03/AnimationSimulator/assets/120723438/62be479e-c4d2-49d9-8ed5-b541c9e31841)
+![Simulator Screen Recording - iPhone 15 Pro - 2024-06-28 at 11 50 08](https://github.com/yordgenome03/AnimationSimulator/assets/120723438/1ced3f86-7a1f-46cd-84f2-88e8cf0700c3)
 
 ## Getting Started
 ### Installation
